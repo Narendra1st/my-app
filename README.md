@@ -3,7 +3,6 @@ Vite React Tailwind Google Login Project
 Project Overview
 # npm install
 # npm run dev
- https://raw.githubusercontent.com/Narendra1st/my-app/main/src/assets/Login%20page.png
 
 
 ---
@@ -24,6 +23,15 @@ When you view the README on GitHub, it will show your login page image like this
 ---
 
 Let me know if you want to show multiple screenshots or want layout/styling tips in Markdown.
+### Login Implementation Demo
+
+Here’s a demo of the login implementation:
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/Narendra1st/my-app/blob/main/src/assets/login%20implement.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 This is a simple React.js application built with Vite and TailwindCSS that demonstrates:
