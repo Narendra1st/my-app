@@ -3,6 +3,34 @@ Vite React Tailwind Google Login Project
 Project Overview
 # npm install
 # npm run dev
+
+
+---
+
+### ✅ Result
+
+When you view the README on GitHub, it will show your login page image like this:
+
+> ![Login Page UI](https://raw.githubusercontent.com/Narendra1st/my-app/main/src/assets/Login%20page.png)
+
+---
+
+### 🔁 If the image doesn't load:
+- Make sure the image is **committed and pushed** to the repo
+- Double-check the path
+- Use `%20` for spaces or rename the file to avoid spaces (e.g., `login-page.png`)
+
+---
+
+Let me know if you want to show multiple screenshots or want layout/styling tips in Markdown.
+### Login Implementation Demo
+
+Here’s a demo of the login implementation:
+
+![Login Demo](https://github.com/Narendra1st/my-app/blob/main/src/assets/login%20implement.mp4)
+
+
+
 This is a simple React.js application built with Vite and TailwindCSS that demonstrates:
 
 Login with Google OAuth (Google Identity Services SDK)
