@@ -27,10 +27,7 @@ Let me know if you want to show multiple screenshots or want layout/styling tips
 
 Here’s a demo of the login implementation:
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/Narendra1st/my-app/blob/main/src/assets/login%20implement.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Login Demo](https://github.com/Narendra1st/my-app/blob/main/src/assets/login%20implement.mp4)
 
 
 
